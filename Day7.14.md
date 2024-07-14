@@ -8,7 +8,7 @@
 
 ​	与用户交互的程序不是操作系统，基于文本的通常称为shell，而基于图标的则称为GUI。
 
-​	![Image00003](C:\Users\91284\AppData\Local\calibre-cache\ev2\f\c1-iv8pneu4\OEBPS\Image00003.jpg)**框架图**
+​	![Alt Text](C:\Users\91284\AppData\Local\calibre-cache\ev2\f\c1-iv8pneu4\OEBPS\Image00003.jpg)**框架图**
 
 
 
